@@ -1,3 +1,6 @@
-res://main.tscn::962084ae1b01701a9c5159fa88474359::1724619867::res://.godot/exported/133200997/export-3070c538c03ee49b7677ff960a3f5195-main.scn
-res://Main_tile_ma.tscn::6a4a62e7b240aa4b32c41e4cf09935ff::1724618362::res://.godot/exported/133200997/export-c2f746d126106ba66b5612009ba86624-Main_tile_ma.scn
+res://main.tscn::ad1fc3feaefba38f1fffdcb043d79ecd::1724817814::res://.godot/exported/133200997/export-3070c538c03ee49b7677ff960a3f5195-main.scn
+res://Main_tile_ma.tscn::5fb2f529f6a106cea58083512c2a1c8e::1724817814::res://.godot/exported/133200997/export-c2f746d126106ba66b5612009ba86624-Main_tile_ma.scn
 res://tile_man.tscn::3cbe13af753e2aee3ace2630f223cb5b::1724618368::res://.godot/exported/133200997/export-93028aca9b6555142cce3c38b822c3d0-tile_man.scn
+res://collectable_star.tscn::b7582756c5c41638cd773d128825c4b2::1724817814::res://.godot/exported/133200997/export-20cd85c92b4d36453ac4477ca5534b90-collectable_star.scn
+res://player1.tscn::ce5b501a84e7ed320416bbd1b694caeb::1724817814::res://.godot/exported/133200997/export-4c91b30ab045402d26e0d790d6311e7d-player1.scn
+res://player2.tscn::6d72585264874c38c91cc53ff8dce22c::1724817814::res://.godot/exported/133200997/export-dbe08699d6ef80877a7a79476b7bca9c-player2.scn

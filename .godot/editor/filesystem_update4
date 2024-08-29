@@ -2,3 +2,6 @@ res://main.tscn
 res://player1.tscn
 res://Main_tile_ma.tscn
 res://collectable_star.tscn
+res://player2.tscn
+res://player2.gd
+res://player_2.gd
